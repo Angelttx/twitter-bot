@@ -26,3 +26,13 @@ pip install tweepy
 ## License
 
 MIT
+
+---
+
+## 💰 Support & Get Full Version
+
+This is the free version. Get the full version with more features:
+
+[Buy on Gumroad - 2](https://haualand.gumroad.com/l/twitter-bot-pro)
+
+---
